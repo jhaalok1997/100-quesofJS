@@ -13,3 +13,4 @@ const factorial = (num) => {
 
 console.log(factorial(5));
 console.log(factorial(12));
+console.log(factorial(4));
